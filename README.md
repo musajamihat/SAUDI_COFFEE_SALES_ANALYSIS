@@ -7,7 +7,7 @@ This dashboard is design to help manager to improve sales, pricing, inventory an
 ---
 
 ## Objectives
-- To evalautes the difference between total sales and final sales across differnt cities and over time, providing insights for business decision.
+- To evalautes the difference between total sales and final sales across different cities and over time, providing insights for business decision.
 - To understand customer's preferences for different products
 - Track Sales trends
 - Identify top city with the highest number of customers and sales and the products with the highest sales
