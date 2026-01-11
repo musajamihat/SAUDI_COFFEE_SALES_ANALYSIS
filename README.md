@@ -75,4 +75,4 @@ which shows the discount did not show a postive impact on revenue.
 - Focus more on **Normal Sales** strategies to maximize revenue
 - Consider loyalty program and rewards which will encourage regular visits and create long term customer loyalty
 
-  *Datasets used learning and Analytical purpose*
+  *Datasets used for learning and Analytical purpose*
