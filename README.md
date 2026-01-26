@@ -66,7 +66,7 @@ which shows the discount did not show a postive impact on revenue.
 ---
 
 ## Dashboard Preview
-![SAUDI_SALE_DASHBOARD](SAUDI_COFFEE.png)
+![SAUDI_SALE_DASHBOARD](SAUDI_SALES.png)
 
 ---
 
