@@ -59,7 +59,7 @@ The datasets includes:
 ---
 
 ## Key Insights
-- Even with discount applied, total sales decreased from $700,745(no discount) to $629,648(with discount)
+-With discount applied, total sales decreased from $700,745(no discount) to $629,648(with discount)
 which shows the discount did not show a postive impact on revenue.
 - Customers may have been motivated by factor like product quality other than discounts
   
